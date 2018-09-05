@@ -22,3 +22,12 @@ You can check my program in [here](https://codepen.io/colorcreate/pen/BOzKXq), i
 but when it's not prime, it will show you factors of it's number
 
 url: https://codepen.io/colorcreate/pen/BOzKXq
+
+
+### Prime Count
+It's like _Prime Number Program_ but it's find the next prime number from input.
+I am still using [_Sieve Method_](https://www.encyclopediaofmath.org/index.php/Sieve_method) to test each number. 
+Enjoy to try reset or change input with any number that you want
+check it in [here](https://codepen.io/colorcreate/pen/ZMOOEG)
+
+url: https://codepen.io/colorcreate/pen/ZMOOEG
