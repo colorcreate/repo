@@ -1,3 +1,9 @@
+## Mimic
+
+### Github
+I've try to mimic github profile page include with some control, but not real control. I made github mimic as much as posible to look like real one
+
+url: https://colorcreate.github.io/mimic-github
 ## Math
 
 ### Prime Number
@@ -36,6 +42,10 @@ url: https://codepen.io/colorcreate/pen/ZMOOEG
 
 ## Canvas
 This is what I got when I learn canvas html tag, I made some enjoyable project to kill you time
+
+### Color Touch
+Touch anywhere and the color will change
+url: https://codepen.io/colorcreate/pen/VGmeZX
 
 ### Rain Balls
 I have been really curious with any dropping balls animation, so I learn _physics_ to understand the theory of gravity
