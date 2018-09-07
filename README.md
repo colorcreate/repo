@@ -1,9 +1,23 @@
+# Index
+- [Mimic](#mimic)
+  - [Github](#github)
+- [Math](#math)
+  - [Prime Number](#prime-number)
+  - [Prime Count](#prime-count)
+- [Canvas](#canvas)
+  - [Color Touch](#color-touch)
+  - [Rain Balls](#rain-balls)
+  - [Grafity Balls](#gravity-balls)
+  - [Drawing Fun](#drawing-fun)
+
 ## Mimic
 
 ### Github
 I've try to mimic github profile page include with some control, but not real control. I made github mimic as much as posible to look like real one
 
 url: https://colorcreate.github.io/mimic-github
+
+
 ## Math
 
 ### Prime Number
