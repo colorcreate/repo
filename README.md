@@ -29,7 +29,14 @@ and I did make it with helping from `window.location` attribute
 url: https://github.com/colorcreate/mimic-jco
 
 ### Github
-I've try to mimic github profile page include with some control, but not real control. I made github mimic as much as posible to look like real one
+
+This repo is one of my progress on [_Frondend Roadmap_](https://www.codementor.io/kamranahmedse/modern-frontend-developer-in-2018-inb3ay6xt) to duplicate some website
+
+I've try to mimic **github profile page** include with some control, but not real control. I made github mimic as much as posible to look like real one
+
+Just like [**JCO**](#jco), I try to using **Singgle Page Application** for tab control without _Angular_ but using `window.location` attibute, so I can change `window.location.search` without reloading the page
+
+You have to remember that this repo is not the real **github**, this is just duplicate **github profile page** but not any control includes
 
 url: https://colorcreate.github.io/mimic-github
 
